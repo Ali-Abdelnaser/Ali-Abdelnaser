@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="470" viewBox="0 0 420 470" role="img" aria-label="Flutter themed mobile engineering illustration">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152e"/><stop offset=".6" stop-color="#123c7a"/><stop offset="1" stop-color="#301966"/></linearGradient><linearGradient id="n"><stop stop-color="#2bedf7"/><stop offset="1" stop-color="#527bff"/></linearGradient></defs>
+<rect width="420" height="470" rx="26" fill="url(#b)"/>
+<circle cx="225" cy="195" r="149" fill="#15c9ff" opacity=".12"/>
+<rect x="121" y="68" rx="30" width="188" height="304" fill="#0b1a3b" stroke="#25c8fa" stroke-width="4"/>
+<rect x="136" y="85" rx="20" width="158" height="267" fill="#153d7a"/>
+<rect x="181" y="82" rx="8" width="70" height="12" fill="#081632"/>
+<path d="M214 142h80l-80 82h-49zm0 82 43-44h38l-66 69z" fill="#2ce3ff"/>
+<path d="M229 249l29-29h39l-47 48z" fill="#567aff"/>
+<rect x="156" y="295" width="117" height="11" rx="5" fill="#18d7fa"/>
+<rect x="156" y="318" width="86" height="7" rx="4" fill="#83aee0"/>
+<g fill="none" stroke="#32d6ff" stroke-width="4" opacity=".9"><path d="M48 176l-23 22 23 22M73 176l23 22-23 22M68 169l-13 60"/></g>
+<circle cx="341" cy="126" r="15" fill="#22cbff"/><circle cx="79" cy="352" r="8" fill="#866cfa"/>
+<text x="210" y="409" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="#f2faff">MOBILE ENGINEERING</text>
+<text x="210" y="439" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8fe2ff">CRAFT • ARCHITECTURE • UX</text>
+</svg>

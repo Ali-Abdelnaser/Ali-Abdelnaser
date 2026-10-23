@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="410" viewBox="0 0 1280 410" role="img" aria-label="Ali Abdelnaser Flutter Developer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06142f"/><stop offset=".53" stop-color="#063b78"/><stop offset="1" stop-color="#130d3a"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#47f8fd"/><stop offset=".55" stop-color="#19aafa"/><stop offset="1" stop-color="#7754ff"/></linearGradient>
+<radialGradient id="g"><stop stop-color="#00d9fc" stop-opacity=".55"/><stop offset="1" stop-color="#00d9fc" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="29"/></filter>
+</defs>
+<rect width="1280" height="410" rx="24" fill="url(#bg)"/>
+<circle cx="1010" cy="215" r="300" fill="url(#g)"/>
+<circle cx="360" cy="-120" r="260" fill="#374bff" opacity=".15" filter="url(#blur)"/>
+<path d="M-20 365Q330 135 625 360M650 380Q980 -85 1290 215" fill="none" stroke="#128cf9" opacity=".38" stroke-width="4"/>
+<g fill="#36dcfc" opacity=".46"><circle cx="700" cy="67" r="4"/><circle cx="731" cy="67" r="4"/><circle cx="762" cy="67" r="4"/><circle cx="793" cy="67" r="4"/><circle cx="700" cy="98" r="4"/><circle cx="731" cy="98" r="4"/><circle cx="762" cy="98" r="4"/><circle cx="793" cy="98" r="4"/></g>
+<path d="M62 85v237" stroke="url(#c)" stroke-width="6" stroke-linecap="round"/>
+<text x="91" y="149" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" fill="#f6faff">ALI <tspan fill="#2ee7fb">ABDELNASER</tspan></text>
+<text x="94" y="206" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#e6f4ff">FLUTTER DEVELOPER</text>
+<text x="95" y="253" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#c8dff6">Engineering polished mobile experiences for Android &amp; iOS.</text>
+<rect x="94" y="286" rx="15" width="164" height="45" fill="#071c46" stroke="#18cbff" stroke-width="1.5"/>
+<text x="122" y="315" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#a4f6ff">FLUTTER / DART</text>
+<rect x="275" y="286" rx="15" width="150" height="45" fill="#1a174e" stroke="#856bff"/>
+<text x="305" y="315" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#e0d8ff">MOBILE APPS</text>
+<g transform="translate(1000,38) rotate(8)">
+<rect width="183" height="319" rx="34" fill="#08162e" stroke="#1d9fff" stroke-width="5"/>
+<rect x="15" y="19" width="153" height="279" rx="22" fill="#0e377e"/>
+<rect x="57" y="15" width="72" height="12" rx="6" fill="#071227"/>
+<circle cx="91" cy="126" r="68" fill="#04dafa" opacity=".21"/>
+<path d="M87 58h74l-74 76H47zm0 76 39-39h35l-57 60z" fill="#3af2fd"/>
+<path d="M104 155l22-22h35l-39 40z" fill="#387dff"/>
+<rect x="35" y="223" width="115" height="13" rx="6.5" fill="#18caff"/>
+<rect x="35" y="250" width="94" height="8" rx="4" fill="#79aef2"/>
+<rect x="35" y="270" width="105" height="8" rx="4" fill="#79aef2"/>
+</g>
+<circle cx="956" cy="304" r="10" fill="#35dcfa"/><circle cx="1230" cy="180" r="10" fill="#6d71ff"/>
+</svg>
