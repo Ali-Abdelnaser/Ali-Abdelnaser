@@ -1,6 +1,6 @@
 <!-- Ali Abdelnaser • Flutter-focused GitHub profile • Dark / Cyan / Electric Blue -->
 <div align="center">
-  <img src="./assets/hero.svg" alt="Ali Abdelnaser | Flutter Developer and Mobile Engineer" width="100%" />
+  <img src="./assets/ChatGPT%20Image%20Oct%2019%2C%202026%2C%2003_26_25%20AM-2.png" alt="Ali Abdelnaser | Flutter Developer and Mobile Engineer" width="100%" />
   <br/><br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=24DCFF&center=true&vCenter=true&width=890&height=58&lines=Hey%2C+I%27m+Ali+Abdelnaser+%F0%9F%91%8B;Flutter+Developer+%7C+Mobile+Engineer;Turning+ideas+into+real-world+apps;Clean+Architecture+%2B+Thoughtful+UI;Building+for+Android+%26+iOS" alt="Animated introduction to Ali Abdelnaser" /></a>
   <br/><br/>
@@ -24,7 +24,7 @@
 <p><strong>What inspires me:</strong> meaningful products, curious teammates, simple solutions to hard problems, and great user experiences.</p>
 </td>
 <td width="34%" align="center" valign="middle">
-<img src="./assets/profile-card.svg" width="310" alt="Neon blue Flutter engineering illustration"/>
+<img src="./assets/ChatGPT%20Image%20Oct%2019%2C%202026%2C%2003_26_24%20AM-1.png" width="310" alt="Neon blue Flutter engineering illustration"/>
 </td>
 </tr>
 </table>
