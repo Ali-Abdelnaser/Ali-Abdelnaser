@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "description": "Small, dependency-free profile asset helper",
+  "type": "module",
+  "scripts": {
+    "assets:crop": "node scripts/crop-banner.mjs"
+  }
+}
